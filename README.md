@@ -7,7 +7,7 @@ See the problem description on [CSPLib.org](https://www.csplib.org/Problems/prob
 Try to improve your model using symmetry breaking, implicit constraints, perhaps a good search strategy, etc.
 
 ```
-picat life.pi 8
+picat life.pi 6
 ```
-should return the optimal value of `36` and some representation of the organism.
+should return the optimal value of `18` and some representation of the organism.
 

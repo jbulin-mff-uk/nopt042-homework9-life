@@ -1,2 +1,2 @@
 #!/bin/sh
-.tmp/Picat/picat life.pi 8
+.tmp/Picat/picat life.pi 6
